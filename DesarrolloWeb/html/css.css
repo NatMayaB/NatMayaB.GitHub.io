@@ -7,3 +7,41 @@
     left: 0; /* Posicionamos la cabecera al lado izquierdo */
     top: 0; /* Posicionamos la cabecera pegada arriba */
 }
+
+.header1 {
+    background: #6c9795d7;
+    color: rgb(253, 253, 253);
+    height: 90px;
+    
+    width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0; /* Posicionamos la cabecera al lado izquierdo */
+    top: 0; /* Posicionamos la cabecera pegada arriba */
+}
+
+.Sneakers1 {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #5cdb5860;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.Sneakers1 > h1,
+.sneakers {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
+
+.sneakers {
+    background: right/contain content-box border-box no-repeat rgba(73, 116, 71, 0.151);
+}
+
+.sneakers > h2,
+.sneakers > p {
+    margin: 0.2rem;
+    font-size: 1rem;
+}
+
+table, td {
+    border: 1px solid black;
+}
