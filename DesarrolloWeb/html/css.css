@@ -73,7 +73,7 @@ table, td {
 .piePagina {
     background: #6c9795d7;
     color: rgb(253, 253, 253);
-    height: 90px;
+    height: 40px;
     
     width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
     left: 0; /* Posicionamos la cabecera al lado izquierdo */
