@@ -9,7 +9,7 @@
 }
 
 .header1 {
-    background: #6c9795d7;
+    background: #cac57cd7;
     color: rgb(253, 253, 253);
     height: 90px;
     
@@ -21,7 +21,7 @@
 .Sneakers1 {
     margin: 0;
     padding: 0.3rem;
-    background-color: #5cdb5860;
+    background-color: #c0b96b60;
     font: 1rem 'Fira Sans', sans-serif;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .sneakers {
-    background: right/contain content-box border-box no-repeat rgba(73, 116, 71, 0.151);
+    background: right/contain content-box border-box no-repeat #c0b96b60;
 }
 
 .sneakers > h2,
