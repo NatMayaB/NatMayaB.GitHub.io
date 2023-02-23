@@ -46,6 +46,15 @@ table, td {
     border: 1px solid black;
 }
 
+.aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+}
+
 .footer {
     background: #6c9795d7;
     color: rgb(253, 253, 253);
@@ -56,11 +65,3 @@ table, td {
     top: 0; /* Posicionamos la cabecera pegada arriba */
 }
 
-.aside {
-    width: 30%;
-    padding-left: 15px;
-    margin-left: 15px;
-    float: right;
-    font-style: italic;
-    background-color: lightgray;
-}
