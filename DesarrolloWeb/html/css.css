@@ -65,3 +65,7 @@ table, td {
     top: 0; /* Posicionamos la cabecera pegada arriba */
 }
 
+.body {
+    background-color: azure;
+}
+
