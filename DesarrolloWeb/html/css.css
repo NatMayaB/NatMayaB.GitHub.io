@@ -1,5 +1,5 @@
 .titulo{
-    background: #dca4c6d7;
+    background: #6c9795d7;
     color: rgb(11, 11, 11);
     height: 90px;
     
@@ -9,7 +9,7 @@
 }
 
 .header1 {
-    background: #cac57cd7;
+    background: #6c9795d7;
     color: rgb(253, 253, 253);
     height: 90px;
     
@@ -21,7 +21,7 @@
 .Sneakers1 {
     margin: 0;
     padding: 0.3rem;
-    background-color: #c0b96b60;
+    background-color: #6c9795d7;
     font: 1rem 'Fira Sans', sans-serif;
 }
 
@@ -33,7 +33,7 @@
 }
 
 .sneakers {
-    background: right/contain content-box border-box no-repeat #c0b96b60;
+    background: right/contain content-box border-box no-repeat rgb(211, 211, 211);
 }
 
 .sneakers > h2,
