@@ -1,0 +1,44 @@
+.titulo{
+    background: #d095d3d7;
+    color: rgb(0,0,0);
+    height: 90px;
+    
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+}
+
+.header1 {
+    background: #d095d3d7;
+    color: rgb(0,0,0);
+    height: 90px;
+    
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+}
+
+.body {
+    background-color: rgb(252, 233, 252);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer {
+    background: #d095d3d7;
+    color: rgb(0,0,0);
+    height: 90px;
+    
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+}
+
+.piePagina {
+    background: #d095d3d7;
+    color: rgb(0,0,0);
+    height: 35px;
+    
+    width: 100%; 
+    left: 0; 
+    top: 0; 
+}
