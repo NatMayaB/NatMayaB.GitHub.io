@@ -72,6 +72,41 @@
     text-align: center;
 }
 
+
+.babyYoda {
+    background-image: url("babyYoda.png");
+    background-size: cover;
+    background-position: center;
+    height: 30vh;
+    width: 30vh;
+    text-align: center;
+    color: black;
+}
+
+.color {
+    color: rgb(56, 4, 108);
+}
+
+.font {
+    font: italic 1.2em "Fira Sans", serif;
+}
+
+.font-family {
+    font-family: fantasy;
+}
+
+.font-style {
+    font-style: oblique 90deg;
+}
+
+.font-weight1{
+    font-weight: 1000;
+}
+
+.font-weight2{
+    font-weight: 200;
+}
+
 .footer {
     background: #d095d3d7;
     color: rgb(0,0,0);
