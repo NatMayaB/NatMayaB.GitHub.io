@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    margin:0;
+    padding:0;
+} 
+
+div {
+    border: 1px solid black;
+}
+
+.flex-item {
+    margin: 5%;
+}
