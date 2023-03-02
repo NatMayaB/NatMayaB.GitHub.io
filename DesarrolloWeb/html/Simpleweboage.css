@@ -90,6 +90,15 @@ div {
     background-color: rgb(3, 3, 40);
 }
 
+#grid-3-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+}
+
 #grid-4 {
     grid-column: 1 / -1;
     grid-row: 6 / 8;
@@ -97,6 +106,14 @@ div {
     justify-content: center;
     align-items: center;
     background-color: rgb(251, 251, 255);
+}
+
+#grid-4-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    color: white;
 }
 
 #footer {
