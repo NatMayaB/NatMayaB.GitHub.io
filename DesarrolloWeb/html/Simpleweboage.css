@@ -32,6 +32,11 @@ div {
     display: flex;
 }
 
+.container-4 {
+    flex-direction: row;
+    display: flex;
+}
+
 
 /* ID */
 #header {
@@ -50,6 +55,16 @@ div {
     background-color: transparent;
     color: white;
     margin: 30px;
+}
+
+#header-1-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    color: white;
+    margin: 30px;
+    padding-right: 10px;
 }
 
 
@@ -78,7 +93,7 @@ div {
     background-color: transparent;
     color: white;
     padding: 10px;
-    font-size: larger;
+    font-size: xx-large;
 }
 
 #grid-3 {
@@ -113,7 +128,8 @@ div {
     justify-content: center;
     align-items: center;
     background-color: transparent;
-    color: white;
+    color: black;
+    padding: 15px;
 }
 
 #footer {
@@ -148,6 +164,13 @@ div {
     color: white;
 }
 
+.flex-container-4 {
+    display:flex;
+    justify-content: space-evenly;
+    align-content: center;
+    color: black;
+}
+
 .flex-container-5 {
     display:flex;
     justify-content: space-evenly;
@@ -157,4 +180,16 @@ div {
 
 .input1 {
     background-color: rgb(184,134,11);
+}
+
+figcaption {
+    font-size: 10px;
+    text-align: center;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
