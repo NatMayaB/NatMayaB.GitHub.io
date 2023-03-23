@@ -21,7 +21,13 @@ body, html {
 .container-1 {
     flex-direction: row;
     display: flex;
-    position: fixed;
+    position:sticky;
+    width: 100%;
+}
+
+.container-1-2 {
+    flex-direction: row;
+    display: flex;
 }
 
 #header {
@@ -37,7 +43,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: transparent;
+    background-color:transparent;
     color: black;
     margin: 30px;
 }
@@ -46,7 +52,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: transparent;
+    background-color:transparent;
     color: black;
     margin: 30px;
     padding-right: 10px;
