@@ -98,7 +98,7 @@ div {
 
 #grid-3 {
     grid-column: 1 / -1;
-    grid-row: 5 / 6;
+    grid-row: 6 / 8;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -116,7 +116,7 @@ div {
 
 #grid-4 {
     grid-column: 1 / -1;
-    grid-row: 6 / 8;
+    grid-row: 5 / 6;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -175,11 +175,12 @@ div {
     display:flex;
     justify-content: space-evenly;
     align-content: center;
-    color: white;
+    color: black;
 }
 
 .input1 {
-    background-color: rgb(184,134,11);
+    background-color: rgb(212, 189, 240);
+    border-color: transparent;
 }
 
 figcaption {
